@@ -22,7 +22,7 @@ I'm a medical student and indie developer working under the studio name **Malix 
 |---|---|---|
 | **Inkrise** | Gamified writing tool | Flutter |
 | **Quizzar Go** | AI-powered quiz & learning app | Flutter, FastAPI |
-| **History Match** | Web-based history learning game | HTML, CSS, JS |
+| [**History Match**](https://github.com/Usmalik37/history-match) | Web-based history learning game | HTML, CSS, JS |
 | **Project Kognit** | Educational website | HTML, CSS, JS |
 
 
