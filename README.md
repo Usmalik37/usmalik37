@@ -19,7 +19,6 @@ I'm a medical student and indie developer working under the studio name **Malix 
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Inkrise** | Gamified writing tool | Flutter |
 | **Quizzar Go** | AI-powered quiz & learning app | Flutter, FastAPI |
 | [**History Match**](https://github.com/Usmalik37/history-match) | Web-based history learning game | HTML, CSS, JS |
 | [**Namer App**](https://github.com/Usmalik37/namer-app/tree/my_namer_app) | Flutter Codelab rebuilt with custom design & architecture | Flutter, Dart |
